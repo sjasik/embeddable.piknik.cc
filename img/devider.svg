@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="12" viewBox="0 0 500 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="500" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-custom_1">
+      <rect width="500" height="12"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      <g transform="translate(34)">
+        <rect id="Rectangle_1-2" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(68)">
+        <rect id="Rectangle_1-3" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(102)">
+        <rect id="Rectangle_1-4" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(136)">
+        <rect id="Rectangle_1-5" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(170)">
+        <rect id="Rectangle_1-6" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(204)">
+        <rect id="Rectangle_1-7" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(238)">
+        <rect id="Rectangle_1-8" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(272)">
+        <rect id="Rectangle_1-9" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(306)">
+        <rect id="Rectangle_1-10" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(340)">
+        <rect id="Rectangle_1-11" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(374)">
+        <rect id="Rectangle_1-12" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(408)">
+        <rect id="Rectangle_1-13" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(442)">
+        <rect id="Rectangle_1-14" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+      <g transform="translate(476)">
+        <rect id="Rectangle_1-15" data-name="Rectangle 1" width="24" height="12" rx="6" fill="rgba(0,0,0,0.06)"/>
+      </g>
+    </g>
+  </g>
+</svg>
