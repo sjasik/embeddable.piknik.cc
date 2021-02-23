@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <!-- Písma, ikony, responzivita -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css"
+      rel="stylesheet"
+    />
+
+    <!-- Widget štýly -->
+    <link
+      href="https://cdn.jsdelivr.net/gh/sjasik/embeddable.piknik.cc@latest/css/app.css"
+      rel="stylesheet"
+    />
+
+    <!-- Stripe platbná brána -->
+    <script src="https://js.stripe.com/v3/"></script>
+
+  </head>
+  <body>
+
+    <!-- Widget -->
+    <piknik-embeddable
+      restaurant_id="60350601682a90eac21d63d5"
+      default_language="sk"
+      primary_color="#f16429"
+      agreements_url="https://piknik.cc/podmienky"
+      gdpr_url="https://piknik.cc/gdpr"
+    ></piknik-embeddable>
+
+    <!-- Widget script -->
+    <script src="https://cdn.jsdelivr.net/gh/sjasik/embeddable.piknik.cc@latest/js/app.js"></script>
+
+  </body>
+</html>
